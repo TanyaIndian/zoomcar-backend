@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/signup.css">
+    <title></title>
+
+  
+</head>
+<body>
+    <div>
+        <h1>Please fill some details</h1>
+        <p>one last step to create new account</p>
+        <select>
+            <option>India</option>
+            <option>Indonesia</option>
+            <option>Vietnem</option>
+            <option>UAE</option>
+            <option>ukrain</option>
+            <option>Europe</option>
+        </select>
+        <input type="text" placeholder="mobile number" id="numb"> <br>
+        <input id="mai"type="text" placeholder="Email id"><br>
+        <input  id="pablu" type="text" placeholder="Name"><br>
+        <button onclick="store()"><p>Register</p></button>
+    </div>
+    
+</body>
+</html>
+<script>
+  
+ 
+function store(){
+
+let a=document.querySelector("#pablu").value
+let b=document.querySelector("#numb").value
+let c=document.querySelector("#mai").value
+// let register={
+//     name:a,
+//     number:b,
+//     email:c
+// }
+if(a.length==0||b.length==0||c.length==0){
+    alert("fill all values")
+}
+
+else{
+
+const cal =async()=>{
+   try {
+       const res=await fetch("https://zoomcartapi.herokuapp.com/register",{
+           method:"POST",
+           headers:{"Content-Type":"application/json",
+             "Access-Control-Allow-origin":"*"},
+             body:JSON.stringify({
+                 name:a,
+                 number:b,
+                 email:c
+             }),
+             
+       })
+       
+      const data=await res.json()
+      console.log("data",data)
+      alert("succefully created")
+
+   } catch (error) {
+       alert("alredy present")
+       console.log(error)
+   }
+
+}
+cal()
+
+window.location.href="num.html"
+
+}
+}
+
+// console.log(user)
+
+// console.log(arr1)
+// localStorage.setItem("userdata",JSON.stringify(arr1))
+
+
+
+</script>
