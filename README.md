@@ -47,96 +47,161 @@ This entire journey of making the project was awesome. We have learned lots of t
 ## So journey started from here!
 
 ### Snapshots of our project :- 
-
 - ## <span style="color:blue"> Home Page </span>
+<div align="center">
+ 
+  <div style="display: flex;justify-content:space-between">
+   <div> <img src="https://user-images.githubusercontent.com/91541289/146790574-517f5a2e-d314-4795-9e8d-b28601cec36a.png" style="vertical-align: top;" /> 
+    <img src="https://user-images.githubusercontent.com/91541289/146790572-44d3aedf-62e3-442f-865e-ae5ee06c4293.png" />
+  </div>
+    
+   </div>
+</div>
+<br>
+<br>
+ 
 
-![home-1](https://user-images.githubusercontent.com/91541289/146790574-517f5a2e-d314-4795-9e8d-b28601cec36a.png)
-
-- ## <span style="color:blue"> Home Page-Footer </span>
-
-![footer](https://user-images.githubusercontent.com/91541289/146790572-44d3aedf-62e3-442f-865e-ae5ee06c4293.png)
 
 - ## <span style="color:blue"> ZMS Page </span>
-
-<img width="450" alt="zms 1" src="https://user-images.githubusercontent.com/91541289/146793779-9a561168-79aa-47b2-91a0-549f9e194f82.png">
-
-- ## <span style="color:blue"> ZMS Footer Page </span>
-
-<img width="439" alt="zms footer" src="https://user-images.githubusercontent.com/91541289/146793783-d43823fb-290d-4915-9107-732f3c15685b.png">
+ <div align="center">
  
- - ## <span style="color:blue"> Become a Host Page </span>
- - 
-  
-<img width="447" alt="host-1" src="https://user-images.githubusercontent.com/91541289/146793768-899bd94a-851f-4054-817f-c8a0d4b6b443.png">
+  <div style="display: flex;">
+   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146793779-9a561168-79aa-47b2-91a0-549f9e194f82.png" style="vertical-align: top;" /> 
+    <img width="450" src="https://user-images.githubusercontent.com/91541289/146793783-d43823fb-290d-4915-9107-732f3c15685b.png" />
+  </div>
+    
+   </div>
+</div>
 
+<br>
+<br>
  
-<img width="450" alt="host-2" src="https://user-images.githubusercontent.com/91541289/146793775-67cb18be-9adb-44e6-b698-1a654a97f518.png">
 
+
+- ## <span style="color:blue">  Become a Host Page </span>
+ <div align="center">
  
-<img width="442" alt="host -3" src="https://user-images.githubusercontent.com/91541289/146793785-211c663e-6695-4425-933b-5e5a30821b33.png">
+  <div style="display: flex;">
+   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146793768-899bd94a-851f-4054-817f-c8a0d4b6b443.png" style="vertical-align: top;" /> 
+    <img width="450" src="https://user-images.githubusercontent.com/91541289/146793775-67cb18be-9adb-44e6-b698-1a654a97f518.png" />
+  </div>
+    
+   </div>
+</div>
+
+<br>
+<br>
+ 
 
 
 - ## <span style="color:blue"> Home Page-Login/Signup </span>
+ <div align="center">
+ 
+  <div style="display: flex;">
+   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790584-98200afb-7240-4c2d-b81b-eb10046e0a89.png" style="vertical-align: top;" /> 
+    <img width="450" src="https://user-images.githubusercontent.com/91541289/146790578-02f3adf5-69ac-48b6-a595-4c7669911b5d.png" />
+  </div>
+    
+   </div>
+</div>
 
-![Register](https://user-images.githubusercontent.com/91541289/146790584-98200afb-7240-4c2d-b81b-eb10046e0a89.png)
+<br>
+<br>
+ 
 
 
-![email Register](https://user-images.githubusercontent.com/91541289/146790569-55b678c7-e611-4ad7-831c-52f6dd9d0115.png)
+- ## <span style="color:blue">Trip Booking-Select City </span>
+ <div align="center">
+ 
+  <div style="display: flex;">
+   <div> <img width="500" src="https://user-images.githubusercontent.com/91541289/141655244-ba41281a-fc77-4549-b960-30acb7f9f921.png" style="vertical-align: top;" /> 
+    
+  </div>
+    
+   </div>
+</div>
 
+<br>
+<br>
+ 
 
-![login](https://user-images.githubusercontent.com/91541289/146790578-02f3adf5-69ac-48b6-a595-4c7669911b5d.png)
-
-
-- ## <span style="color:blue"> Trip Booking-Select City </span>
-
-<img width="400" alt="city " src="https://user-images.githubusercontent.com/91541289/141655244-ba41281a-fc77-4549-b960-30acb7f9f921.png">
 
 - ## <span style="color:blue"> Trip Booking-Pickup and DropOff Location </span>
+ <div align="center">
+ 
+  <div style="display: flex;">
+   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790575-3bd7f236-9c10-4a89-9514-f33e6a6e7461.png" style="vertical-align: top;" /> 
+    <img width="450" src="https://user-images.githubusercontent.com/91541289/146790585-0b592e99-624c-44f3-8656-26d5d69c9879.png" />
+    
+     
+  </div>
+    
+   </div>
+</div>
+ 
+
+<br>
+<br>
+ 
 
 
-![location](https://user-images.githubusercontent.com/91541289/146790575-3bd7f236-9c10-4a89-9514-f33e6a6e7461.png)
+- ## <span style="color:blue"> Car Booking Page</span>
+ <div align="center">
+ 
+  <div style="display: flex;">
+   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790595-8723b759-1445-484c-8dee-a2076857b946.png" style="vertical-align: top;" /> 
+    <img width="450" src="https://user-images.githubusercontent.com/91541289/146790593-4c7de262-4633-4e75-983e-5516cbedaea6.png" />
+    
+     
+  </div>
+    
+   </div>
+</div>
 
 
-![trip end](https://user-images.githubusercontent.com/91541289/146790585-0b592e99-624c-44f3-8656-26d5d69c9879.png)
 
 
-![trip end-2](https://user-images.githubusercontent.com/91541289/146790589-abdc7455-8aa7-4277-b407-b269cb4ffc81.png)
-
-
-- ## <span style="color:blue"> Car Booking Page </span>
-
-![car showroom](https://user-images.githubusercontent.com/91541289/146790595-8723b759-1445-484c-8dee-a2076857b946.png)
-
-
-![car showroom 2](https://user-images.githubusercontent.com/91541289/146790593-4c7de262-4633-4e75-983e-5516cbedaea6.png)
+<br>
+<br>
+ 
 
 
 - ## <span style="color:blue"> Selected Car Details </span>
+ <div align="center">
+ 
+  <div style="display: flex;">
+   <div> <img width="500" src="https://user-images.githubusercontent.com/91541289/146790592-97203e87-e95e-4a0f-9a05-e61907c82d88.png" style="vertical-align: top;" /> 
+    
+  </div>
+    
+   </div>
+</div>
 
-![booking Summary](https://user-images.githubusercontent.com/91541289/146790592-97203e87-e95e-4a0f-9a05-e61907c82d88.png)
 
-- ## <span style="color:blue"> Selected Car Payment BreakUp </span>
 
-![checkout](https://user-images.githubusercontent.com/91541289/146790562-03fa8212-2eaf-41dd-ab1a-fecf07c9a1b7.png)
+
+<br>
+<br>
+ 
+
 
 - ## <span style="color:blue"> Mode Of Payment </span>
+ <div align="center">
+ 
+  <div style="display: flex;">
+   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790581-b69cd1a4-8c9b-4208-8181-e8314bb3cde7.png" style="vertical-align: top;" /> 
+    <img width="450" src="https://user-images.githubusercontent.com/91541289/141655237-e4c4b3e5-d120-49b4-8ded-9f840de87bf6.png" />
+    
+     
+  </div>
+    
+   </div>
+</div>
 
-![payment Option](https://user-images.githubusercontent.com/91541289/146790581-b69cd1a4-8c9b-4208-8181-e8314bb3cde7.png)
 
 
-![](- ## <span style="color:blue"> Payment through Paytm Wallet  </span>
 
-<img width="400" alt="patym Details" src="https://user-images.githubusercontent.com/91541289/141655237-e4c4b3e5-d120-49b4-8ded-9f840de87bf6.png">
 
-<img width="200" alt="Paytm Wallet " src="https://user-images.githubusercontent.com/91541289/141655629-c43ed757-6d9e-4b97-b4f9-062fb08db5b8.png">
-
-<img width="200" alt="paytm Wallet-2" src="https://user-images.githubusercontent.com/91541289/141655624-97546a26-8bca-4507-adf7-f3f19ac62eaf.png">
-
-<img width="200" alt="paytm-3" src="https://user-images.githubusercontent.com/91541289/141655627-e5f36701-c982-4ac5-b91d-7a552a9d5ace.png">
-
-<img width="200" alt="paytm-4" src="https://user-images.githubusercontent.com/91541289/141655628-4925d4c0-8a83-4ef1-bc04-94dc79f5b75e.png">
-
-![confirmation](https://user-images.githubusercontent.com/91541289/146790566-d5fa503b-744c-432a-b2ab-f4310dc1a8a5.png)
 
 <br>
  <hr>
